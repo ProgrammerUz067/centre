@@ -75,3 +75,16 @@
     }
   }
 }
+
+@media screen and (max-width: 540px){
+  .about{
+    .model{
+      top: 550px;
+      .textWrapper{
+        .title{
+          padding-top: 30px;
+        }
+      }
+    }
+  }
+}
