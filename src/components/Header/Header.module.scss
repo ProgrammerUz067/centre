@@ -288,6 +288,13 @@
           margin-left: 20px;
         }
       }
+
+      a:nth-child(5){
+        opacity: 0;
+      }
+      a:nth-child(6){
+        opacity: 0;
+      }
     }
   }
 }
