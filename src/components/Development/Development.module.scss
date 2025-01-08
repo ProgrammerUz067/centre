@@ -1,0 +1,79 @@
+.courses {
+  background: #7d7d7d;
+  color: #f2f2f2;
+  padding: 0 40px;
+  padding-bottom: 180px;
+  .tit {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 54px;
+    font-weight: 700;
+  }
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    flex-wrap: wrap;
+    .course {
+      width: 350px;
+      height: 450px;
+      color: #000;
+      background: #fff;
+      padding: 30px 30px;
+      .title {
+        font-size: 35px;
+        font-weight: 700;
+        margin-bottom: 15px;
+      }
+      .duration {
+        color: #7d7d7d;
+      }
+      .price {
+        font-weight: 700;
+      }
+      .des {
+        font-size: 13px;
+      }
+      .imgWrapper {
+        margin-top: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .img {
+        margin-top: 15px;
+        width: 150px;
+        height: 150px;
+      }
+      .imgy {
+        height: 170px;
+        margin-top: 8px;
+      }
+      .imgx {
+        // width: 250px;
+        height: 130px;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 1100px){
+  .courses{
+    height: 2450px;
+    .tit{
+      padding-top: 100px;
+    }
+    .course:nth-child(1){
+      margin-top: 80px;
+    }
+    .course:nth-child(2){
+      margin-top: 80px;
+    }
+    .course:nth-child(9){
+      display: hidden;
+      overflow: hidden;
+      opacity: 0;
+    }
+  }
+}

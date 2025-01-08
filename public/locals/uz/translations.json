@@ -1,0 +1,130 @@
+{
+  "header": {
+    "link1": "Asosiy",
+    "link2": "Biz haqimizda",
+    "link3": "Kurslar",
+    "link4": "Kontaktlar"
+  },
+  "main": {
+    "titleGreen": "Hamma uchun bilim maktabi: ",
+    "titleWhite": "Mental arifmetikadan IT yechimlarini yaratishgacha",
+    "main-text": "Miya yaxshi holatda, ko'nikmalar eng yaxshi holatda"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos temporibus quis quibusdam dolorem dolore nisi, animi dicta aliquam possimus labore quos magni cumque! Nihil voluptatem laborum, quis dolore accusantium dolorem corporis blanditiis repudiandae aliquid dicta adipisci, voluptate laboriosam aperiam tempore a harum pariatur amet? Quasi nisi optio quia, sapiente debitis tenetur, a repellat est nemo eveniet non velit blanditiis! Nostrum provident itaque ullam, laboriosam rem quos cum laborum laudantium totam."
+  },
+  "teachers": {
+    "title": "Bizning ustozlarimiz",
+    "teacher1": {
+      "name": "Roma",
+      "lastName": "Sadikov",
+      "skill": "Frontend o'qituvchisi"
+    },
+    "teacher2": {
+      "name": "Diyor",
+      "lastName": "Xasanov",
+      "skill": "Frontend o'qituvchisi"
+    },
+    "teacher3": {
+      "name": "Ramizjon",
+      "lastName": "Ziyodullayev",
+      "skill": "Backend o'qituvchisi"
+    },
+    "teacher4": {
+      "name": "Aziz",
+      "lastName": "Amonov",
+      "skill": "Matematika o'qituvchisi"
+    },
+    "teacher5": {
+      "name": "Shakhnoza",
+      "lastName": "Nazarova",
+      "skill": "Ingliz tili o'qituvchisi"
+    },
+    "teacher6": {
+      "name": "Sabina",
+      "lastName": "Xodjiyeva",
+      "skill": "Rus tili o'qituvchisi"
+    },
+    "teacher7": {
+      "name": "Timur",
+      "lastName": "Gaziyev",
+      "skill": "Marketplace o'qituvchisi"
+    }
+  },
+  "courses": {
+    "title": "Bizning kurslarimiz",
+    "pc": {
+      "title": "Kompyuter savodxonligi",
+      "duration": "Davomiyligi 1 oy",
+      "price": "500.000 sum/oy",
+      "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+    },
+    "back": {
+      "title": "Python Back-End",
+      "duration": "Davomiyligi 7 oy",
+      "price": "800.000 sum/oy",
+      "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+    },
+    "front": {
+      "title": "Front-End",
+      "duration": "Davomiyligi 7 oy",
+      "price": "800.000 sum/oy",
+      "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+    },
+    "eng": {
+      "title": "Ingliz tili",
+      "duration": "Davomiyligi 6 oy",
+      "price": "350.000 sum/oy",
+      "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+    },
+    "rus": {
+      "title": "Rus tili",
+      "duration": "Davomiyligi 6 oy",
+      "price": "400.000 sum/oy",
+      "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+    },
+    "matem": {
+      "title": "Matematika",
+      "duration": "Davomiyligi 1 yil",
+      "price": "500.000 sum/oy",
+      "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+    },
+    "market": {
+      "standart": {
+        "title": "Standart",
+        "duration": "Davomiyligi +1 oy",
+        "price": "599$",
+        "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+      },
+      "standart_plus": {
+        "title": "Standart plus",
+        "duration": "Davomiyligi 2-3 oy",
+        "price": "1299$",
+        "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+      },
+      "biznes": {
+        "title": "Biznes ",
+        "duration": "Davomiyligi 2-3 oy",
+        "price": "1999$",
+        "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+      },
+      "vip": {
+        "title": "VIP",
+        "duration": "Davomiyligi +4 oy",
+        "price": "2999$",
+        "des": "Asoslardan mahoratga qadar! Bizning kursimiz asosiy arifmetikadan tortib murakkab tenglamalargacha bo'lgan hamma narsani o'z ichiga oladi. Biz oddiy tilda tushuntiramiz, bilimlarni amalda qo‘llashni ko‘rsatamiz."
+      }
+    }
+  },
+  "contact": {
+    "title": "Biz barcha savollaringizni hal qilishda yordam beramiz",
+    "subtitle": "Agar siz UZIT Group haqida koʻproq maʼlumot olishni istasangiz yoki savollaringiz boʻlsa, soʻrov qoldiring, biz sizga qoʻngʻiroq qilamiz."
+  },
+  "map": {
+    "title": "Bizning joylashuvimiz"
+  },
+  "rights": {
+    "text": "barcha huquqlar himoyalangan"
+  }
+}

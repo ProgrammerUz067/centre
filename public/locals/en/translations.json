@@ -1,0 +1,130 @@
+{
+  "header": {
+    "link1": "Home",
+    "link2": "About",
+    "link3": "Courses",
+    "link4": "Contacts"
+  },
+  "main": {
+    "titleGreen": "School of knowledge for everyone: ",
+    "titleWhite": "From mental arithmetic to creating IT solutions",
+    "main-text": "The brain is in good shape, skills are at their best"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos temporibus quis quibusdam dolorem dolore nisi, animi dicta aliquam possimus labore quos magni cumque! Nihil voluptatem laborum, quis dolore accusantium dolorem corporis blanditiis repudiandae aliquid dicta adipisci, voluptate laboriosam aperiam tempore a harum pariatur amet? Quasi nisi optio quia, sapiente debitis tenetur, a repellat est nemo eveniet non velit blanditiis! Nostrum provident itaque ullam, laboriosam rem quos cum laborum laudantium totam."
+  },
+  "teachers": {
+    "title": "Our teachers",
+    "teacher1": {
+      "name": "Roma",
+      "lastName": "Sadikov",
+      "skill": "Frontend Development Teacher"
+    },
+    "teacher2": {
+      "name": "Diyor",
+      "lastName": "Khasanov",
+      "skill": "Frontend Development Teacher"
+    },
+    "teacher3": {
+      "name": "Ramizjon",
+      "lastName": "Ziyodullayev",
+      "skill": "Backend Development Teacher"
+    },
+    "teacher4": {
+      "name": "Aziz",
+      "lastName": "Amonov",
+      "skill": "Mathematics teacher"
+    },
+    "teacher5": {
+      "name": "Shakhnoza",
+      "lastName": "Nazarova",
+      "skill": "English teacher"
+    },
+    "teacher6": {
+      "name": "Sabina",
+      "lastName": "Khodjiyeva",
+      "skill": "Russian language teacher"
+    },
+    "teacher7": {
+      "name": "Timur",
+      "lastName": "Gaziyev",
+      "skill": "Marketplace Teacher"
+    }
+  },
+  "courses": {
+    "title": "Our courses",
+    "pc": {
+      "title": "Computer literacy",
+      "duration": "Duration 1 month",
+      "price": "500.000 sum/month",
+      "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+    },
+    "back": {
+      "title": "Python Back-End",
+      "duration": "Duration 7 months",
+      "price": "800.000 sum/months",
+      "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+    },
+    "front": {
+      "title": "Front-End",
+      "duration": "Duration 7 months",
+      "price": "800.000 sum/months",
+      "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+    },
+    "eng": {
+      "title": "English language",
+      "duration": "Duration 6 months",
+      "price": "350.000 sum/moths",
+      "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+    },
+    "rus": {
+      "title": "Russian language",
+      "duration": "Duration 6 months",
+      "price": "400.000 sum/months",
+      "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+    },
+    "matem": {
+      "title": "Maths",
+      "duration": "Duration 1 year",
+      "price": "500.000 sum/months",
+      "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+    },
+    "market": {
+      "standart": {
+        "title": "Standart",
+        "duration": "Duration +1 month",
+        "price": "599$",
+        "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+      },
+      "standart_plus": {
+        "title": "Standart plus",
+        "duration": "Duration 2-3 months",
+        "price": "1299$",
+        "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+      },
+      "biznes": {
+        "title": "Biznes",
+        "duration": "Duration 2-3 months",
+        "price": "1999$",
+        "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+      },
+      "vip": {
+        "title": "VIP",
+        "duration": "Duration +4 months",
+        "price": "2999$",
+        "des": "From the basics to mastery! Our course covers everything from basic arithmetic to complex equations. We explain in simple language, show how to apply knowledge in practice, and teach you to think logically"
+      }
+    }
+  },
+  "contact": {
+    "title": "We will help you solve all your questions",
+    "subtitle": "If you want to learn more about UZIT Group or have any questions, leave a request and we will call you back."
+  },
+  "map": {
+    "title": "Our location"
+  },
+  "rights":{
+    "text": "All rights reserved"
+  }
+}
