@@ -98,3 +98,18 @@
     }
   }
 }
+
+@media screen and (max-width: 540px) {
+  .courses{
+    .wrapper{
+      .course{
+        .title{
+          font-size: 20px;
+        }
+        .imgWrapper{
+          width: 300%;
+        }
+      }
+    }
+  }
+}
