@@ -56,7 +56,21 @@
 @media screen and (max-width: 768px){
   .about{
     .model{
-      top: 1000px;
+      margin-top: 230px;
+      display: flex;
+      flex-wrap: wrap;
+      height: 250px;
+      img{
+        display: hidden;
+        overflow: hidden;
+        opacity: 0;
+      }
+      .textWrapper{
+        .title{
+          margin-top: -700px;
+          font-size: 30px;
+        }
+      }
     }
   }
 }
