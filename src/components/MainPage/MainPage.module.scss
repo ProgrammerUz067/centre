@@ -109,20 +109,15 @@
   .mainPage {
     margin-bottom: 0px;
     padding-bottom: 0px;
+    margin-left: -60px;
     .title {
-      font-size: 52px;
+      font-size: 24px;
       p {
-        font-size: 32px;
+        font-size: 24px;
       }
     }
     .subtitle {
       font-size: 18px;
-    }
-    .img {
-      margin-top: 90px;
-      img {
-        margin-top: 0;
-      }
     }
   }
 }
