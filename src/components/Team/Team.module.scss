@@ -1,5 +1,5 @@
 .team {
-  background: #7d7d7d;
+  background: #7d7d7d !important;
   h1 {
     padding: 50px 30px;
   }
@@ -81,6 +81,7 @@
 @media screen and (max-width: 768px) {
   .team {
     .container {
+      padding-bottom: 50px;
       margin-left: 50px;
       .card:nth-child(3) {
         margin-left: 170px;

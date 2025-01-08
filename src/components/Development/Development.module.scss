@@ -1,7 +1,7 @@
 .courses {
   background: #7d7d7d;
   color: #f2f2f2;
-  padding: 0 40px;
+  padding: 20px 40px;
   padding-bottom: 180px;
   .tit {
     padding-top: 30px;
@@ -74,6 +74,27 @@
       display: hidden;
       overflow: hidden;
       opacity: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 768px){
+  .courses{
+    padding-top: 50px;
+    height: 2850px;
+    .wrapper{
+      .course{
+        display: flex;
+        width: 600px;
+        height: 250px;
+        cursor: pointer;
+        .imgWrapper{
+          width: 120%;
+        }
+        .des{
+          opacity: 0;
+        }
+      }
     }
   }
 }
