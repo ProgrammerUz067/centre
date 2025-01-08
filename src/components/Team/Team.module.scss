@@ -89,3 +89,16 @@
     }
   }
 }
+
+@media screen and (max-width: 540px) {
+  .team{
+    .card{
+      margin-left: 50px;
+    }
+    .container{
+      .card:nth-child(3){
+        margin-left: 50px;
+      }
+    }
+  }
+}
