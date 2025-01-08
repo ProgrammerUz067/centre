@@ -18,6 +18,7 @@
     right: 50px;
     left: 50px;
     border-radius: 15px;
+    display: flex;
     .textWrapper{
       width: 45%;
       padding: 50px;
@@ -80,6 +81,36 @@
           margin-top: 10px;
           padding: 0;
           height: auto;
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px){
+  .questions{
+    display: flex;
+    flex-wrap: wrap;
+    .modul{
+      top: 4710px;
+      margin-left: -10px;
+      display: flex;
+      flex-wrap: wrap;
+      height: 330px;
+      .title{
+        opacity: 0;
+      }
+      .subtitle{
+        opacity: 0;
+      }
+      .form{
+        width: 100%;
+        margin-top: -450px;
+        input{
+          height: 50px;
+        }
+        button{
+          margin-left: 130px;
         }
       }
     }
